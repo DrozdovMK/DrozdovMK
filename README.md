@@ -15,24 +15,24 @@
 
   <table>
     <tr>
-      <td align="center" width="300">
-        <a href="https://github.com/DrozdovMK/MTC-link-hackathon" target="_blank">
+      <td align="left" width="300">
+        <a href="https://github.com/DrozdovMK/Hackathon-mts-link" target="_blank">
           <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="100"/><br/>
           <strong>MTC-link Hackathon</strong>
         </a>
         <p>
-          ML-powered app built in 5 days.<br/>
-          Used Pytoch, PyQt5, hugging face, sklearn
+          ML-powered app built in 5 days <br/>
+           NLP segmentation of short texts <br/>
         </p>
       </td>
-      <td align="center" width="300">
+      <td align="left" width="300">
         <a href="https://github.com/DrozdovMK/Tokodust" target="_blank">
           <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="100"/><br/>
           <strong>ITERxMEPhI Hackathon</strong>
         </a>
         <p>
-          App for detecting dust in the video in 24 hours.<br/>
-          Used opencv, pytorch, sklearn, git
+          ML-powered app in 24 hours <br/>
+           CV dust detecting <br/>
         </p>
     </tr>
     
